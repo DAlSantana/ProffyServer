@@ -1,14 +1,3 @@
-#Funcionalidades
+#Server
 
-## CONEXÕES
-
-- Rota para listar o total de conexões realizadas
-- Rota para criar uma nova conexão
-
-## Aulas
-
-- Rota para criar uma aula;
-- Rota para listar aulas;
-- Filtrar por matéria, dia da semana e horário;
-"# ProffyServer" 
-"# ProffyServer" 
+<p> Este é o servidor do projeto Proffy server <a href="https://github.com/DAlSantana/Proffy" /> <\p>
